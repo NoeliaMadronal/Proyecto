@@ -29,13 +29,13 @@ main{
     height: 50px;
     font-family: $font-r;
     font-size: 1.5vh;
-
+    
     button{border: none;}
 
     ul{
-      background-color: transparent;
+      background-color: $color-light;
       border-radius: 2px;
-
+      
       li{
         font-family: $font-r;
         font-size: 2vh;
